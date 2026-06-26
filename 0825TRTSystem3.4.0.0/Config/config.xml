@@ -3,7 +3,7 @@
 <!--database config-->
 <configs>
   <location>2</location>
-  <path>d:\40859-01\0825trtsystem3.4.0.0\Database</path>
+  <path>D:\40859-01\0825TRTSystem3.4.0.0\Database</path>
   <filename>0825TRTDatabase.mdb</filename>
   <centerid>0825</centerid>
   <centername>เจริญกรุงคลินิกเวชกรรมเฉพาะทางไตเทียม</centername>
